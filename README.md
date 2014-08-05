@@ -13,3 +13,5 @@ Centered on the 'S' key, its 8 neighboring keys (W, E, D, C, X, Z, A, Q) represe
 
 There are plans to implement the AI using the minimax algorithm and alpha-beta pruning.
 But, for now, the 'AI' does not make any logical moves; it selects a random piece and direction to make the move.
+
+This project uses [LWJGL](http://lwjgl.org/index.php) and [Slick2D](http://slick.ninjacave.com/) Libraries
